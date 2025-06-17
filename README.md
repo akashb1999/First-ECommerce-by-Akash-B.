@@ -1,4 +1,4 @@
-![Screenshot 2025-06-17 173053](https://github.com/user-attachments/assets/64f26342-df9c-4893-9aa9-048efc9ebf5e)# HeadPhones by Akash Bhattacharyya.
+# HeadPhones by Akash Bhattacharyya.
 
 A ECommerce Website that shows various types of headphones, catalogs, reviews, and testimonials,  using HTML, CSS, and JavaScript.
 
