@@ -1,6 +1,6 @@
 # HeadPhones by Akash Bhattacharyya.
 
-A ECommerce Website that shows various types of headphones, catalogs, reviews, and testimonials,  using HTML, CSS, and JavaScript.
+An E-Commerce website that shows various types of headphones, catalogs, reviews, and testimonials,  using HTML, CSS, and JavaScript.
 
 
 ## 🔧 Technologies Used
